@@ -9,7 +9,7 @@ My goal is to empower companies to grow through data.
  
 📊 Tableau ➡︎ [@despi-kotsidou](https://public.tableau.com/app/profile/despi.kotsidou/vizzes)
 
-🏢 LinkedIn ➡︎ [@dkotsidou]([(https://www.linkedin.com/in/dkotsidou/)])
+🏢 LinkedIn ➡︎ [@dkotsidou](https://www.linkedin.com/in/dkotsidou/)
 
 📲 Instagram ➡︎ [@dkotsidou](https://www.instagram.com/dkotsidou_com)
 
