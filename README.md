@@ -1,18 +1,24 @@
 ## Hey, my name is Despi 👋
 
-I’ve been living in Vienna, Austria, for many years... 
-👩🏻‍💻 I’m currently pursuing a master’s in Business Informatics. 
-🖥️ I built websites focused on SEO and user experience.
-📈 Overtime, my interest in data analysis has grown, and I’m now passionate about using tools like Tableau, Python, and SQL to help businesses make smarter, data-driven decisions.
+I've been living in Vienna, Austria, for many years...
 
-My goal is to empower companies to grow through data.
- 
+👩🏻‍💻 I'm currently pursuing a master's in Business Informatics
+📊 Passionate about data analysis, Tableau, Python, and SQL
+🤖 Focused on AI Ethics & Responsible Data Science
+
+My mission: Empower companies to grow through ethical, data-driven decisions
+that prioritize fairness, transparency, and social impact.
+
+## My Focus Areas:
+- Machine Learning & Predictive Analytics
+- Algorithmic Fairness & Bias Detection
+- AI Ethics & Responsible AI
+- Data Visualization & Business Intelligence
+- Ethical Data Collection & Privacy
+
 📊 Tableau ➡︎ [@despi-kotsidou](https://public.tableau.com/app/profile/despi.kotsidou/vizzes)
-
 🏢 LinkedIn ➡︎ [@dkotsidou](https://www.linkedin.com/in/dkotsidou/)
-
-📲 Instagram ➡︎ [@dkotsidou](https://www.instagram.com/dkotsidou_com)
-
+📧 Contact ➡︎ dkotsidou@gmail.com
 
 <!--
 **despoinakotsidou/despoinakotsidou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
